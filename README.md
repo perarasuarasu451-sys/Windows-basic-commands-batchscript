@@ -144,6 +144,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="428" height="477" alt="image" src="https://github.com/user-attachments/assets/c835b142-e033-4d53-a640-b9ed9fefcb4c" />
 
 
 

@@ -68,18 +68,22 @@ List out the file hello1.txt in the current directory
 ## COMMAND AND OUTPUT
 
 
-<img width="516" height="904" alt="Screenshot 2026-05-09 112536" src="https://github.com/user-attachments/assets/5fa988c9-ea98-4909-9ec1-c9d4a57c2c8a" />
+<img width="590" height="223" alt="Screenshot 2026-05-09 112418" src="https://github.com/user-attachments/assets/346e051b-d3f1-4466-9aa0-7eb193f1665b" />
+
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+<img width="516" height="904" alt="Screenshot 2026-05-09 112536" src="https://github.com/user-attachments/assets/afb7d015-290a-43c9-a5be-b946784422c0" />
 
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+
+<img width="630" height="212" alt="Screenshot 2026-05-09 112625" src="https://github.com/user-attachments/assets/06f0a75e-11df-454a-a157-d635132099a0" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".

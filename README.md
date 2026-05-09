@@ -24,37 +24,57 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-## COMMAND AND OUTPUT
 
+## COMMAND AND OUTPUT
+<img width="611" height="102" alt="Screenshot 2026-05-09 110948" src="https://github.com/user-attachments/assets/e1727377-05b4-46f1-aad9-0e02fcb92ff2" />
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="607" height="90" alt="Screenshot 2026-05-09 111848" src="https://github.com/user-attachments/assets/df030169-848b-44ee-a5ca-7a29e2e46bf7" />
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="660" height="378" alt="Screenshot 2026-05-09 112117" src="https://github.com/user-attachments/assets/7f0c8e13-90ae-4387-add6-b4ff9d5246e5" />
+
+
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+
+<img width="789" height="182" alt="Screenshot 2026-05-09 112259" src="https://github.com/user-attachments/assets/62ce90c4-6ae5-43ce-a55f-90a7ec385588" />
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+
+<img width="717" height="144" alt="Screenshot 2026-05-09 112337" src="https://github.com/user-attachments/assets/08931c69-3a7b-482e-bf6f-84540fdc01d0" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+
+
+<img width="590" height="223" alt="Screenshot 2026-05-09 112418" src="https://github.com/user-attachments/assets/091817af-3888-49f7-aa3c-103ea7752dc2" />
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
+
+<img width="516" height="904" alt="Screenshot 2026-05-09 112536" src="https://github.com/user-attachments/assets/5fa988c9-ea98-4909-9ec1-c9d4a57c2c8a" />
+
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+
+
 
 
 Compare the file hello.txt and rose.txt
